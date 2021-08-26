@@ -13,7 +13,7 @@ Users have two sliders with which they can create scenarios with lower/higher sa
 
 ##
 <p align="center">
-    <img width="872" height="528" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Profit%20Scenarios/images/tooltip.PNG>
+    <img width="594" height="360" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Profit%20Scenarios/images/tooltip.PNG>
 </p>
 
 ## Feature Highlights
