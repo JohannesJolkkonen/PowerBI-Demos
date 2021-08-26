@@ -4,6 +4,6 @@
 
 ## Power BI Business Demos
 
-This repository contains a showcase of business-related models created with Power BI.
+This repository contains a showcase of business-related models/reports I have created with Power BI.
 
-Each model is contained in its own folder, with their corresponding README and screencaps of the report pages and visuals. In the "Overview" section for each model, there are also links to the live models. 
+Each model is contained in its own folder, with their corresponding README and screencaps of the report pages and visuals. In the "Overview" section for each model, there are also links to the published live models. 
