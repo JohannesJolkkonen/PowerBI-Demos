@@ -1,4 +1,4 @@
-# Power BI Customer Acquisition Performance 
+<h1 align="center">Power BI Customer Acquisition Performance</h1>
 
 <p align="center">
     <img width="991" height="600" src=https://github.com/JohannesJolkkonen/powerbi-customer-acquisition/blob/main/images/tm-performance.PNG>
@@ -12,6 +12,9 @@ Key metrics include meetings arranged, calls made per meeting arranged, cancella
 
 The live model is available at []
 
+<p align="center">
+    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/powerbi-customer-acquisition/blob/main/images/tm-weekly.PNG>
+</p>
 
 ## Feature Highlights
 - Customers/Prospects typically have a relationship with more than one sales operator. For most DAX-measures, this relationship context needed to be managed with the use of USERELATIONSHIP-functions.
