@@ -1,7 +1,7 @@
 <h1 align="center">Power BI Predicting Employee Flight Risk</h1>
 
 <p align="center">
-    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/flight-overview.PNG>
+    <img width="872" height="528" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/flight-overview.PNG>
 </p>
 
 ## Overview
@@ -12,7 +12,7 @@ Using the Key Influencers -visual among others, employee segments can be identif
 
 ##
 <p align="center">
-    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/key-drivers.PNG>
+    <img width="872" height="528" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/key-drivers.PNG>
 </p>
 
 ## Feature Highlights
