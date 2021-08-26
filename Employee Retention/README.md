@@ -12,6 +12,9 @@ Using the Key Influencers -visual among others, employee segments can be identif
 
 The model was inspired by BlueGranite's work [here](https://www.bluegranite.com/blog/power-bi-showcase-employee-retention-organizational-flight-risk), but nonetheless built from scratch and with unrelated data.
 
+The live model is available [here](https://app.powerbi.com/view?r=eyJrIjoiNTg5NGM2ZDctOTk4Ny00OGU2LTkzZjEtNTk0OGJlNjk0ZGM5IiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSectionec9090cec51601096917)
+
+
 ##
 <p align="center">
     <img width="872" height="528" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/key-drivers.PNG>

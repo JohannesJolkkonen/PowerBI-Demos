@@ -11,6 +11,8 @@ This model combines data from product costs, prices and sales volumes to visuali
 
 Users have two sliders with which they can create scenarios with lower/higher sales volume or lower/higher unit costs. 
 
+The live model is available [here](https://app.powerbi.com/view?r=eyJrIjoiODYxYmZmNTAtNjhhNC00ZTc1LWE2OGQtNDIxNjc2MmFhNDJmIiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSection1d1273d39191e292b007)
+
 ##
 <p align="center">
     <img width="594" height="360" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Profit%20Scenarios/images/tooltip.PNG>
@@ -35,8 +37,7 @@ SUMX( Sales,
 
 ## Data
 
-Dataset is a fictional one of ~1500 rows, created by IBM and found on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). 
-Some small, cosmetic adjustments were made to the data towards the end, such as renaming Job Titles and Office locations. 
+The datasets used were randomly generated with Python, numpy and Mimesis. See https://github.com/JohannesJolkkonen/mock-business-data-generator.
 
 ## Further Development 
 
