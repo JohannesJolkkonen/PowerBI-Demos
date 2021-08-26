@@ -1,7 +1,7 @@
 <h1 align="center">Power BI Customer Acquisition Performance</h1>
 
 <p align="center">
-    <img width="991" height="600" src=https://github.com/JohannesJolkkonen/powerbi-customer-acquisition/blob/master/images/tm-performance.PNG>
+    <img width="991" height="600" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/tm-performance.PNG>
 </p>
 
 ## Overview
@@ -13,7 +13,7 @@ Key metrics include meetings arranged, calls made per meeting arranged, cancella
 The live model is available at []
 
 <p align="center">
-    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/powerbi-customer-acquisition/blob/master/images/tm-weekly.PNG>
+    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/tm-weekly.PNG>
 </p>
 
 ## Feature Highlights
