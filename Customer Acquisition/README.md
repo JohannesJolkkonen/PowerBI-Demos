@@ -12,6 +12,7 @@ Key metrics include meetings arranged, calls made per meeting arranged, cancella
 
 The live model is available at []
 
+## 
 <p align="center">
     <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/tm-weekly.PNG>
 </p>
@@ -26,6 +27,11 @@ The live model is available at []
 - There were some inconsistent data formats and naming conventions between the Softphone and the CRM, which were fixed with Power Query.    
 
 - Usage hints that can be shown and hidden with a click, created by using buttons and bookmarks
+
+##
+<p align="center">
+    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/customer-retention.PNG>
+</p>
 
 ## Data
 
