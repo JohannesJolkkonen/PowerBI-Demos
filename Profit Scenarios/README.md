@@ -9,7 +9,7 @@
 
 This model combines data from product costs, prices and sales volumes to visualize how changes to each of these variables impact profits.
 
-Users have two sliders with which they can create scenarios with lower/higher sales volume or lower/higher manufacturing costs. 
+Users have two sliders with which they can create scenarios with lower/higher sales volume or lower/higher unit costs. 
 
 ##
 <p align="center">
