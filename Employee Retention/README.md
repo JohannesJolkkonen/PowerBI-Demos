@@ -12,7 +12,7 @@ Using the Key Influencers -visual among others, employee segments can be identif
 
 The model was inspired by BlueGranite's work [here](https://www.bluegranite.com/blog/power-bi-showcase-employee-retention-organizational-flight-risk), but nonetheless built from scratch and with unrelated data.
 
-The live model is available [here](https://app.powerbi.com/view?r=eyJrIjoiNTg5NGM2ZDctOTk4Ny00OGU2LTkzZjEtNTk0OGJlNjk0ZGM5IiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSectionec9090cec51601096917)
+The live model is available [**here**](https://app.powerbi.com/view?r=eyJrIjoiNTg5NGM2ZDctOTk4Ny00OGU2LTkzZjEtNTk0OGJlNjk0ZGM5IiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSection3ef502b7ea479cd59910)
 
 
 ##
@@ -36,6 +36,6 @@ The live model is available [here](https://app.powerbi.com/view?r=eyJrIjoiNTg5NG
 Dataset is a fictional one of ~1500 rows, created by IBM and found on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). 
 Some small, cosmetic adjustments were made to the data towards the end, such as renaming Job Titles and Office locations. 
 
-## Further Development 
+## Development Notes 
 
  

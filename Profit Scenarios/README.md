@@ -11,7 +11,7 @@ This model combines data from product costs, prices and sales volumes to visuali
 
 Users have two sliders with which they can create scenarios with lower/higher sales volume or lower/higher unit costs. 
 
-The live model is available [here](https://app.powerbi.com/view?r=eyJrIjoiODYxYmZmNTAtNjhhNC00ZTc1LWE2OGQtNDIxNjc2MmFhNDJmIiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSection1d1273d39191e292b007)
+The live model is available [**here**](https://app.powerbi.com/view?r=eyJrIjoiODYxYmZmNTAtNjhhNC00ZTc1LWE2OGQtNDIxNjc2MmFhNDJmIiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSection1d1273d39191e292b007)
 
 ##
 <p align="center">
@@ -39,6 +39,6 @@ SUMX( Sales,
 
 The datasets used were randomly generated with Python, numpy and Mimesis. See https://github.com/JohannesJolkkonen/mock-business-data-generator.
 
-## Further Development 
+## Development Notes
 
  

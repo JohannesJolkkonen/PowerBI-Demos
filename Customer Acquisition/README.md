@@ -10,7 +10,7 @@ This model combines data from softphone records and a CRM to monitor the perform
 
 Key metrics include meetings arranged, calls made per meeting arranged, cancellation rate of meetings, and new customers for each employee. These can also be viewed as averages at the level of months or weeks.
 
-The live model is available [here](https://app.powerbi.com/view?r=eyJrIjoiMmM4YTVkZWEtNzU3Zi00NGY0LTk2MzAtYTcxNjc5OGY0N2ExIiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSectiond7345ab33da28eb25755)
+The live model is available [**here**](https://app.powerbi.com/view?r=eyJrIjoiMmM4YTVkZWEtNzU3Zi00NGY0LTk2MzAtYTcxNjc5OGY0N2ExIiwidCI6IjlkM2ViZWMyLTI3OWItNDY2NC05YmViLTU4YmEzNjI2MGVlMyIsImMiOjh9&pageName=ReportSectiond7345ab33da28eb25755)
 
 ## 
 <p align="center">
@@ -37,4 +37,4 @@ The live model is available [here](https://app.powerbi.com/view?r=eyJrIjoiMmM4YT
 
 The datasets used were randomly generated with Python, numpy and Mimesis. See https://github.com/JohannesJolkkonen/mock-business-data-generator.
 
-## Further Development 
+## Development Notes 
