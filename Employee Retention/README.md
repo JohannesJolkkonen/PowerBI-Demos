@@ -1,4 +1,8 @@
-# Power BI Predicting Employee Flight Risk
+<h1 align="center">Power BI Predicting Employee Flight Risk</h1>
+
+<p align="center">
+    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/flight-overview.png>
+</p>
 
 ## Overview
 
@@ -6,9 +10,19 @@ This model was built using employee records, which were first enriched with an A
 
 Using the Key Influencers -visual among others, employee segments can be identified for which the predicted likelihood of employees leaving are disproportionately high.
 
+##
+<p align="center">
+    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/key-drivers.png>
+</p>
+
 ## Feature Highlights
 
 - A Decision Tree algorithm was implemented with Azure ML Studio for predicting flight risk
+
+##
+<p align="center">
+    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Employee%20Retention/images/details.PNG>
+</p>
 
 ## Data
 
