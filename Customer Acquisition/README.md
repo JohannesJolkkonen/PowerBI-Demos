@@ -30,7 +30,7 @@ The live model is available at []
 
 ##
 <p align="center">
-    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/customer-retention.PNG>
+    <img width="792" height="480" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/customer-retention.png>
 </p>
 
 ## Data
