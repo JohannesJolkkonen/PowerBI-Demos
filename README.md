@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="872" height="528" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/powerbi-image.png>
+    <img width="100%" height="100%" src=https://github.com/JohannesJolkkonen/PowerBI-Demos/blob/master/Customer%20Acquisition/images/powerbi-image.png>
 </p>
 
 ## Power BI Business Demos
