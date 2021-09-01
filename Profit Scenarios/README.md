@@ -25,8 +25,11 @@ The live model is available [**here**](https://app.powerbi.com/view?r=eyJrIjoiOD
 - Slider-ranges were created with GENERATESERIES(), and subsequent measures were based on the value(s) that users select by using SELECTEDVALUE(). This way, projections are dynamically re-calculated as soon as the slider value (=SELECTEDVALUE) changes. Meanwhile, baseline measures are held constant by using ALLSELECTED.
 
 ```DAX
-Cost Change = GENERATESERIES(-0.2, 0.2, 0.01)
-% Cost Change = SELECTEDVALUE('Cost Change'[Cost Change], 0)
+Demand Change = GENERATESERIES(-0.20, 0.21, 0.01) --Returns a single column table, which is used as the value for demand-slider
+% Demand Change = SELECTEDVALUE('Demand Change'[Demand Change], 0) --Returns the currently selected value of the demand-slider
+
+Cost Change = GENERATESERIES(-0.2, 0.2, 0.01) --Returns a single column table, which is used as the value for cost-slider
+% Cost Change = SELECTEDVALUE('Cost Change'[Cost Change], 0) --Returns the currently selected value of the cost-slider
 
 Scenario Cost = 
 SUMX( Sales,
